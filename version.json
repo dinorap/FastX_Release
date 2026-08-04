@@ -1,7 +1,7 @@
 {
-  "version": "0.1.11",
-  "releaseUrl": "https://github.com/dinorap/FastX_Release/releases/tag/v0.1.11",
-  "downloadUrl": "https://github.com/dinorap/FastX_Release/releases/download/v0.1.11/FastX_Setup.exe",
-  "body": "Bug fixes and improvements",
-  "publishedAt": "2026-07-01T00:00:00Z"
+  "version": "0.2.0",
+  "releaseUrl": "https://github.com/dinorap/FastX_Release/releases/tag/v0.2.0",
+  "downloadUrl": "https://github.com/dinorap/FastX_Release/releases/download/v0.2.0/FastST.Launcher_0.2.0_x64-setup.exe",
+  "body": "Bản cập nhật tính năng mới và sửa lỗi",
+  "publishedAt": "2026-08-05T00:00:00Z"
 }
